@@ -1,14 +1,10 @@
 body {
     background-color:#c3e1f5;
     font-family:Comfortaa;
-}
-
-h1{
-    text-align:center;
-    color:#09599f;
-}
-
-p {
     font-size:20px;
+    text-align:center;
+}
+
+.header {
     color:#09599f;
 }
