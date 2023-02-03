@@ -1,11 +1,6 @@
 body {
-    background-color:#c3e1f5;
+    background: linear-gradient(to top, pink 0%, pink 10%, red 10%, red 100%)
     font-family:Comfortaa;
     font-size:20px;
     text-align:center;
-}
-
-.header {
-    height:200px;
-    background:#252525;
 }
