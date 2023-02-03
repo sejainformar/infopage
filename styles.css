@@ -6,5 +6,7 @@ body {
 }
 
 .header {
+    background-color:#252525;
+    width:200px;
     color:#09599f;
 }
